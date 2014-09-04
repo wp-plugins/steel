@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 
 Core plugin of the Sparks Framework. Works for any theme; but when paired with Flint your WordPress site will be on fire.
 
-== Description ==
+== A Description ==
 
 Steel adds certain capabilities through several optional modules. We are continuing to add modules, so stay tuned.
 
