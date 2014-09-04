@@ -4,7 +4,7 @@ Tags: bootstrap, carousel, quotes, shortcodes, slides, teams, widgets
 Requires at least: 3.4
 Tested up to: 4.0
 Stable tag: 1.1.7
-License: GPLv3 or later 
+License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 
 Core plugin of the Sparks Framework. Works for any theme; but when paired with Flint your WordPress site will be on fire.
