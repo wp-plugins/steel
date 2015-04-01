@@ -1,9 +1,9 @@
 === Steel ===
 Contributors: starverte, mbeall
 Tags: bootstrap, carousel, quotes, shortcodes, slides, teams, widgets
-Requires at least: 3.4
-Tested up to: 4.0
-Stable tag: 1.1.7
+Requires at least: 3.9
+Tested up to: 4.1
+Stable tag: 1.2.3
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -47,6 +47,21 @@ Like our plugin? Write us a review!
 Submit your questions to http://sparks.starverte.com/steel and we will try to answer them.
 
 == Changelog ==
+= 1.2.3 =
+* Fixed fatal error in slides.php
+
+= 1.2.2 =
+* Added target attribute to btn shortcode
+* Various UI improvements
+* Added Google Analytics module
+* Upgrade to Bootstrap 3.3.4 and point to MaxCDN's bootstrap files
+
+= 1.2.0 =
+* Options UI improvements
+* Added grid.css
+* Further development of Podcast module (still inactive)
+* Upgrade to Bootstrap 3.3.2
+
 = 1.1.7 =
 * Clean up code
 * Upgrade to Bootstrap 3.2
