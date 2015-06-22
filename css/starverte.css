@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Star Verte";
+  font-style: normal;
+  font-weight: normal;
+
+  src: url("../fonts/starverte.eot");
+  src: url("../fonts/starverte.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/starverte.woff") format("woff"),
+  url("../fonts/starverte.ttf") format("truetype"),
+  url("../fonts/starverte.svg#starverte") format("svg");
+}
+
+[data-icon]:before {
+  font-family: "Star Verte" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  line-height: 1;
+  text-transform: none !important;
+  content: attr(data-icon);
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  speak: none;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "Star Verte" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  line-height: 1;
+  text-transform: none !important;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  speak: none;
+}
+
+.icon-sparks:before {
+  content: "b";
+}
+.icon-clouds:before {
+  content: "f";
+}
+.icon-clouds-alt:before {
+  content: "g";
+}
+.icon-creative:before {
+  content: "d";
+}
+.icon-creative-alt:before {
+  content: "e";
+}
+.icon-sparks-alt:before {
+  content: "c";
+}
+.icon-starverte:before {
+  content: "a";
+}
